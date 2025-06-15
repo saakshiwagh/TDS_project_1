@@ -1,0 +1,11 @@
+fastapi
+mangum
+uvicorn
+numpy
+python-dotenv
+google-generativeai
+openai
+tqdm
+beautifulsoup4
+requests
+bs4
